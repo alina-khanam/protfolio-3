@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+.banner_section{
+    background-image: url(../a-p/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    padding: 5rem 0;
+    height: 809px;
+    width: 1600px;
+   
+
+}
+/* section-1 */
+
+.section_1{
+    display: flex;
+}
+.about-me{
+    text-align: center;
+}
+.about-me img{
+    width: 70%;
+    border-radius: 50%;
+}
+.about-me h2{
+    margin-top: 14px;
+    margin-bottom: 14px;
+    text-align: left;
+}
+.row{
+    display: flex;
+    padding: 50px;
+}
+   
